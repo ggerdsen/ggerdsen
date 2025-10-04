@@ -1,16 +1,15 @@
-## Hi there 👋
+<!-- GitHub Stats Cards -->
+### My GitHub Contributions Across All Accounts 🚀
 
-<!--
-**ggerdsen/ggerdsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Dark Mode Stats Card with 'radical' theme -->
+![GitHub Stats Dark](https://github-readme-stats-multiuser.vercel.app/api?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin,gerdsenai&theme=radical&bg_color=0D1117&hide_border=true)
 
-Here are some ideas to get you started:
+<!-- Dark Mode Languages Card with 'radical' theme -->
+![Top Languages Dark](https://github-readme-stats-multiuser.vercel.app/api/top-langs?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin,gerdsenai&theme=radical&bg_color=0D1117&hide_border=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Alternative Themes -->
+<!-- Tokyonight theme -->
+![GitHub Stats Tokyonight](https://github-readme-stats-multiuser.vercel.app/api?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin,gerdsenai&theme=tokyonight&hide_border=true)
+
+<!-- Synthwave theme -->
+![GitHub Stats Synthwave](https://github-readme-stats-multiuser.vercel.app/api?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin,gerdsenai&theme=synthwave&hide_border=true)
