@@ -1,15 +1,14 @@
 <!-- GitHub Stats Cards -->
-### My GitHub Contributions Across All Accounts 🚀
+### My Combined GitHub Contributions 🚀
 
-<!-- Dark Mode Stats Card with 'radical' theme -->
-![GitHub Stats Dark](https://github-readme-stats-multiuser.vercel.app/api?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin,gerdsenai&theme=radical&bg_color=0D1117&hide_border=true)
+<!-- Dark Mode Stats Card with 'tokyonight' theme (one of the most popular dark themes) -->
+![GitHub Stats](https://github-readme-stats-multiuser.vercel.app/api?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin&theme=tokyonight&hide_border=true&show_icons=true&count_private=true)
 
-<!-- Dark Mode Languages Card with 'radical' theme -->
-![Top Languages Dark](https://github-readme-stats-multiuser.vercel.app/api/top-langs?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin,gerdsenai&theme=radical&bg_color=0D1117&hide_border=true&layout=compact)
+<!-- Dark Mode Languages Card with matching theme -->
+![Top Languages](https://github-readme-stats-multiuser.vercel.app/api/top-langs?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
 
-<!-- Alternative Themes -->
-<!-- Tokyonight theme -->
-![GitHub Stats Tokyonight](https://github-readme-stats-multiuser.vercel.app/api?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin,gerdsenai&theme=tokyonight&hide_border=true)
+<!-- Alternative View with 'radical' theme -->
+![GitHub Stats Radical](https://github-readme-stats-multiuser.vercel.app/api?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin&theme=radical&hide_border=true&show_icons=true&count_private=true)
 
-<!-- Synthwave theme -->
-![GitHub Stats Synthwave](https://github-readme-stats-multiuser.vercel.app/api?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin,gerdsenai&theme=synthwave&hide_border=true)
+<!-- Alternative View with 'dracula' theme -->
+![GitHub Stats Dracula](https://github-readme-stats-multiuser.vercel.app/api?usernames=ggerdsen,ggerdsenicon,GerdsenAI-Admin&theme=dracula&hide_border=true&show_icons=true&count_private=true)
